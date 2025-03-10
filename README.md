@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRAKHAR SINGH</h1>
-<h3 align="center">COMPETITIVE PROGRAMMER,FULL STACK DEVELOPER FROM INDIA</h3>
+<h3 align="center">FULL STACK DEVELOPER ,ANDROID DEVELOPER ,IOS DEVELOPER AND GAME DEVELOPER FROM INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar-singh171&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar-singh171" /> </p>
 
