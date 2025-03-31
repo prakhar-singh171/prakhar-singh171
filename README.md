@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://www.overleaf.com/read/gbpsnmdtsnhg#235ebd](https://www.overleaf.com/read/gbpsnmdtsnhg#235ebd)
 
+- ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=prakkhar15)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/prakkhar15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prakkhar15" height="30" width="40" /></a>
