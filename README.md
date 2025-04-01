@@ -18,8 +18,7 @@
 
 ### 🚀 Competitive Programming Profiles
 - ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=prakkhar15)
-- [![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=prakkhars17)](https://github.com/KnlnKS/leetcode-stats)
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=prakkhars17)](https://github.com/KnlnKS/leetcode-stats)
 ## 🌐 Connect with me
 <p align="left">
   <a href="https://www.codechef.com/users/prakkhar15" target="_blank">
